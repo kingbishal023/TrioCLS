@@ -1,0 +1,41 @@
+[
+    {
+        "domain": ".karigoripathsala.com",
+        "expirationDate": 1787724984.058305,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.1.748834499.1752556151"
+    },
+    {
+        "domain": ".karigoripathsala.com",
+        "expirationDate": 1787724984.054124,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga_HXRZKQV1EN",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GS2.1.s1753164030$o7$g1$t1753164983$j58$l0$h245196286"
+    },
+    {
+        "domain": "www.karigoripathsala.com",
+        "expirationDate": 1753768885.112834,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "token",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "39530%7ConYrwJ4ZXkHvShK1jOT5vCRtNo3MkxI0MWCEPvu7a233b13d"
+    }
+]
