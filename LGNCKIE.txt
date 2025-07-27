@@ -1,7 +1,7 @@
 [
     {
         "domain": ".karigoripathsala.com",
-        "expirationDate": 1787726804.338059,
+        "expirationDate": 1788149324.845192,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga",
@@ -14,7 +14,7 @@
     },
     {
         "domain": ".karigoripathsala.com",
-        "expirationDate": 1787726823.038404,
+        "expirationDate": 1788149337.849271,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga_HXRZKQV1EN",
@@ -23,7 +23,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GS2.1.s1753166804$o1$g1$t1753166822$j42$l0$h1016111161"
+        "value": "GS2.1.s1753589319$o4$g1$t1753589337$j42$l0$h1476077242"
     },
     {
         "domain": "www.karigoripathsala.com",
